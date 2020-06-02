@@ -1,17 +1,1 @@
 
-Customer Info: Customer Name: ami
-Phone Number: ami
-Books: Book Name: 22
-Writer Name: 22
-
-Customer Info: Customer Name: ami2
-Phone Number: 141441
-Books: 
-Book Name: 33
-Writer Name: 33
-
-Book Name: 44
-Writer Name: 44
-
-Book Name: 55
-Writer Name: 55
